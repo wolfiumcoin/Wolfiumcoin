@@ -32,7 +32,7 @@ Před založením ověřit volný handle (youtube.com/@…) a že název není o
 3. „If anyone finds this phone in two thousand years… the bread was really good.“
 
 Titulek: `POV: You're a baker in Pompeii – Aug 24, 79 AD 🌋`
-Popis (fakt): *In 1930, archaeologists found a real carbonized loaf of bread in a Pompeii bakery oven – baked the day Vesuvius erupted.*
+Popis (fakt): *Archaeologists found 81 real carbonized loaves of bread still in a Pompeii bakery oven – baked the day Vesuvius erupted.* (Pozn.: datum 24. 8. je tradiční; novější nálezy ukazují spíš na říjen 79 – hodí se jako „fun fact“ do komentáře.)
 
 ## Vizuální styl (stálý blok promptu)
 
