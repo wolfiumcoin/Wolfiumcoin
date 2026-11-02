@@ -1,0 +1,62 @@
+# Historický POV kanál (USA, angličtina) – plán
+
+> Nahrazuje původní dětský koncept (`PLAN.md`). Kanál **NENÍ** „Made for kids“.
+
+## Koncept
+
+**„POV: You live in…“** – krátká vlogová videa, ve kterých obyčejný člověk z minulosti
+mluví do „mobilu“ a ukazuje svůj den. Humor + zajímavost + dramatický háček
+(často těsně před slavnou historickou událostí).
+
+- Publikum: 16–50 let, USA, zájem o historii, zábava + vzdělání
+- Formát: Shorts 9:16, 1–3 záběry × 8 s (8–24 s), postava mluví anglicky přímo ve videu (Veo 3.1)
+- Týdně: 7 Shorts + 1 delší video (5–10 min) složené ze záběrů dané epochy („A Day in Pompeii“)
+
+## Názvy kanálu
+
+| Název | Handle |
+|---|---|
+| **History POV** ⭐ | @historypov |
+| Back Then Vlogs | @backthenvlogs |
+| Time Traveler's Phone | @timetravelersphone |
+| Yesterday Vlogs | @yesterdayvlogs |
+| You Were There | @youwerethere |
+
+Před založením ověřit, že je handle volný.
+
+## Vizuální styl (stálý blok promptu)
+
+`Photorealistic smartphone selfie-style vlog shot, vertical, handheld, natural light,
+realistic skin texture, historically accurate clothing and architecture, no text, no watermark`
+
+## Výroba 1 dílu
+
+1. **Háček** (1 věta) + scénář repliky, max. ~18 slov na 8 s.
+2. **Úvodní snímek** – Nano Banana 2, text2image, 9:16, 2K (~18 kreditů).
+3. **Video** – Veo 3.1 image2video, lite, 8 s, 9:16, 1080p, se zvukem (~216 kreditů).
+   Do promptu přesná replika: `He says to the camera: "..."`.
+4. **CapCut** – titulek nahoře „POV: …“ + auto captions, případně spojit 2–3 záběry.
+5. **Upload** – NE „Made for kids“; u realistických AI záběrů zaškrtnout
+   **„Altered or synthetic content“** (u realistických lidí je to povinné).
+6. Popis: krátký skutečný fakt k události (přidaná hodnota → splňuje pravidla monetizace).
+
+Hashtagy: `#history #pov #historyfacts #shorts`
+
+## Prvních 10 dílů
+
+1. POV: You're a baker in Pompeii – August 24, 79 AD 🌋
+2. POV: You're a passenger on the Titanic – April 14, 1912 🚢
+3. POV: You're a medieval peasant on tax day, 1340 🌾
+4. POV: You're a builder on the Great Pyramid, 2560 BC 🔺
+5. POV: You're a gladiator 5 minutes before the fight 🏟️
+6. POV: You're a Viking who just saw England for the first time ⚔️
+7. POV: You work at the Eiffel Tower construction, 1888 🗼
+8. POV: You're a gold rush miner in California, 1849 ⛏️
+9. POV: You're a sailor with Columbus, October 11, 1492 🌊
+10. POV: You're in London during the Great Fire, 1666 🔥
+
+## Pravidla
+
+- Žádné krvavé a násilné detaily – katastrofa se jen naznačí (kouř, poplach), jinak hrozí omezení reklam.
+- Fakta ověřit (data, oblečení) – komentáře opravují chyby a nedůvěra brzdí růst.
+- Každý díl vlastní scénář; nekopírovat cizí videa.
