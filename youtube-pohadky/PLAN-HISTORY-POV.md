@@ -106,3 +106,59 @@ Nastavení: Not made for kids · Altered or synthetic content: **Yes** · Catego
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-02 | Titanic | https://youtube.com/shorts/l4KDrHI54lw | | | |
 | 2 | 2026-11-03 | Pompeii (plán) | | | | |
+
+## Díl 3 – Gladiátor (3 × 8 s = 24 s)
+
+1. Tunel pod Koloseem: „Five minutes until I fight in the Colosseum. Fifty thousand people up there… no pressure.“
+2. Ječná kaše: „Fun fact: people call us 'barley men'. Barley every single day. My mom still thinks I'm an accountant.“
+3. Brána se otevírá: „Okay, the gate's opening. If I lose, the crowd decides with their thumb. Wait… is up good or bad?“
+
+**Titulek ve videu:** `POV: You're a gladiator – 5 minutes before the fight ⚔️`
+
+**Název videa:** `POV: You're a gladiator 5 minutes before the fight 🏟️ #history #rome #shorts`
+
+**Popis:**
+```
+Colosseum, Rome, around 80 AD. 50,000 people are waiting. You're next. 🏟️
+
+Real facts:
+• Gladiators really were nicknamed "hordearii" – barley men – because of their barley-heavy diet.
+• Most fights did NOT end in death – trained gladiators were far too expensive to lose.
+• Nobody knows for sure if "thumbs up" meant life or death. The famous thumbs-down idea comes largely from a painting made in 1872.
+
+Follow for a new history POV every day. 📱🏛️
+
+AI-generated video inspired by real history.
+#history #gladiator #rome #pov #historyfacts
+```
+
+**Připnutý komentář:** `Thumbs up or thumbs down – which one do YOU think meant "let him live"? 👍👎`
+
+## Díl 4 – Viking (3 × 8 s = 24 s)
+
+1. Na lodi: „Day twelve at sea. Bjorn says there's land ahead. Bjorn also said that on day three.“
+2. Pobřeží Anglie: „LAND! Okay, Bjorn was right. Green hills, sheep everywhere… And a big stone house full of gold… and nobody's guarding it?“
+3. Na pláži: „Guys. The locals here… they don't take a bath every Saturday. Savages.“
+
+**Titulek ve videu:** `POV: You're a Viking seeing England for the first time – 793 AD ⚔️`
+
+**Název videa:** `POV: You're a Viking who just found England 🛶 #history #vikings #shorts`
+
+**Popis:**
+```
+June 793 AD. A Viking ship reaches the island of Lindisfarne, England – the moment many historians call the start of the Viking Age. 🛶⚔️
+
+Real facts:
+• Vikings were famous for being CLEAN – Saturday in Old Norse was "laugardagr", literally "washing day".
+• An English chronicler complained that Danish men combed their hair daily and bathed every Saturday.
+• Vikings never wore horned helmets – that idea comes from 19th-century opera costumes.
+
+Follow for a new history POV every day. 📱🏛️
+
+AI-generated video inspired by real history.
+#history #vikings #pov #historyfacts #793
+```
+
+**Připnutý komentář:** `Would you rather be the Viking or the monk on that beach? 👀`
+
+Nastavení (oba díly): Not made for kids · Altered or synthetic content: **Yes** · Category: Education
