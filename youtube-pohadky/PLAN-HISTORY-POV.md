@@ -16,8 +16,8 @@ mluví do „mobilu“ a ukazuje svůj den. Humor + zajímavost + dramatický h�
 
 | Název | Handle | Poznámka |
 |---|---|---|
-| **Ancient Vlogger** ⭐ | @ancientvlogger | okamžitě jasné, vtipné, sedí na selfie formát |
-| History POV | @historypov | nejlépe vyhledatelné, ale obecné a pravděpodobně obsazené |
+| Ancient Vlogger | @ancientvlogger | okamžitě jasné, vtipné, sedí na selfie formát |
+| **History POV** ✅ ZVOLENO | @historypov | nejlépe vyhledatelné |
 | Vlogs From The Past | @vlogsfromthepast | popisné, srozumitelné |
 | Last Day Vlogs | @lastdayvlogs | silný háček (poslední den před katastrofou), ale úzké téma |
 | Time Traveler's Phone | @timetravelersphone | příběh: „telefon nalezený v minulosti“ |
