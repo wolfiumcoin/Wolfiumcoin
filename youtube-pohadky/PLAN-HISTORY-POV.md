@@ -162,3 +162,18 @@ AI-generated video inspired by real history.
 **Připnutý komentář:** `Would you rather be the Viking or the monk on that beach? 👀`
 
 Nastavení (oba díly): Not made for kids · Altered or synthetic content: **Yes** · Category: Education
+
+## Instagram – @timetravelersphone
+
+- **Name:** `History POV · Time Travel Vlogs`
+- **Category:** Video creator (nebo Digital creator)
+- **Bio:**
+```
+📱 A phone that records the past
+🏛️ Ordinary people. Historic moments.
+🎬 New history POV every day
+👇 Full videos on YouTube
+```
+- **Link:** https://www.youtube.com/@historypov (title: YouTube)
+- Reels: 9:16, stejné video jako Shorts; v *Advanced settings* zapnout **AI label**; titulek + 3–5 hashtagů.
+- Highlights: Ancient Rome · Titanic · Vikings · Behind the scenes
