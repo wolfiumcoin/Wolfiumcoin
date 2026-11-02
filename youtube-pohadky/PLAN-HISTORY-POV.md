@@ -12,17 +12,27 @@ mluví do „mobilu“ a ukazuje svůj den. Humor + zajímavost + dramatický h�
 - Formát: Shorts 9:16, 1–3 záběry × 8 s (8–24 s), postava mluví anglicky přímo ve videu (Veo 3.1)
 - Týdně: 7 Shorts + 1 delší video (5–10 min) složené ze záběrů dané epochy („A Day in Pompeii“)
 
-## Názvy kanálu
+## Názvy kanálu (US)
 
-| Název | Handle |
-|---|---|
-| **History POV** ⭐ | @historypov |
-| Back Then Vlogs | @backthenvlogs |
-| Time Traveler's Phone | @timetravelersphone |
-| Yesterday Vlogs | @yesterdayvlogs |
-| You Were There | @youwerethere |
+| Název | Handle | Poznámka |
+|---|---|---|
+| **Ancient Vlogger** ⭐ | @ancientvlogger | okamžitě jasné, vtipné, sedí na selfie formát |
+| History POV | @historypov | nejlépe vyhledatelné, ale obecné a pravděpodobně obsazené |
+| Vlogs From The Past | @vlogsfromthepast | popisné, srozumitelné |
+| Last Day Vlogs | @lastdayvlogs | silný háček (poslední den před katastrofou), ale úzké téma |
+| Time Traveler's Phone | @timetravelersphone | příběh: „telefon nalezený v minulosti“ |
+| Yesterday Vlogs | @yesterdayvlogs | krátké, ale méně jasné |
 
-Před založením ověřit, že je handle volný.
+Před založením ověřit volný handle (youtube.com/@…) a že název není ochranná známka.
+
+## Díl 1 – Pompeii (3 × 8 s = 24 s)
+
+1. „Morning, Pompeii! Fresh bread's almost out of the oven… Huh… is the mountain supposed to do that?“
+2. „Okay, update… the mountain is DEFINITELY not supposed to do that. Everybody's leaving. I left bread in the oven!“
+3. „If anyone finds this phone in two thousand years… the bread was really good.“
+
+Titulek: `POV: You're a baker in Pompeii – Aug 24, 79 AD 🌋`
+Popis (fakt): *In 1930, archaeologists found a real carbonized loaf of bread in a Pompeii bakery oven – baked the day Vesuvius erupted.*
 
 ## Vizuální styl (stálý blok promptu)
 
