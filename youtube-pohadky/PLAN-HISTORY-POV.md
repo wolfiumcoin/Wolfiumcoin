@@ -99,3 +99,10 @@ AI-generated video inspired by real historical events.
 **Připnutý komentář:** `Would you have stayed on deck or gone for the lifeboats? 👇`
 
 Nastavení: Not made for kids · Altered or synthetic content: **Yes** · Category: Education
+
+## Publikováno
+
+| # | Datum | Díl | Odkaz | Zhlédnutí 24 h | Odběr. 24 h | Swipe-away / avg. viewed |
+|---|---|---|---|---|---|---|
+| 1 | 2026-11-02 | Titanic | https://youtube.com/shorts/l4KDrHI54lw | | | |
+| 2 | 2026-11-03 | Pompeii (plán) | | | | |
