@@ -1,7 +1,7 @@
-# Kaja Holm – character sheet
+# Saga Nordvik – character sheet
 
 Fiktivní AI postava (28 let, dospělá). Tento soubor je závazný popis postavy –
-používej ho pro každou novou fotku / video, aby Kaja vypadala vždy stejně.
+používej ho pro každou novou fotku / video, aby Saga vypadala vždy stejně.
 
 ## Reference
 
@@ -25,7 +25,7 @@ používej ho pro každou novou fotku / video, aby Kaja vypadala vždy stejně.
 ## Prompt blok (vložit do každého promptu)
 
 ```
-Kaja, the exact same woman as in the reference portrait (identical face, icy blue eyes,
+Saga, the exact same woman as in the reference portrait (identical face, icy blue eyes,
 pink lips, platinum blonde hair), a 28-year-old adult woman with a golden tan, curvy
 hourglass figure with a noticeably fuller, larger bust (about D cup), slim waist and a
 smooth flat stomach with only very subtle muscle definition.
@@ -38,3 +38,16 @@ smooth flat stomach with only very subtle muscle definition.
 - Videa: Wan 3.0 (`wan3-0`), image2video ze schválené fotky.
 - Styl: lifestyle / swimwear, bez nahoty.
 - Instagram: u fotorealistického AI obsahu zapínat štítek „Made with AI“.
+
+## Instagram
+
+- Jméno: **Saga Nordvik** (dříve Kaja Holm – stejná postava, přejmenováno 2026-11-02)
+- Handle: @saganordvik (ověřit dostupnost)
+- Bio:
+  ```
+  AI-generated profile
+  Saga Nordvik 🤍
+  🇳🇴 → 🌍 sun, sea & slow mornings
+  ```
+- Hashtag postavy: `#saganordvik`
+- V promptech OpenArt používat jméno „Saga“; referenční obrázky zůstávají stejné.
