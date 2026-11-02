@@ -70,3 +70,32 @@ Hashtagy: `#history #pov #historyfacts #shorts`
 - Žádné krvavé a násilné detaily – katastrofa se jen naznačí (kouř, poplach), jinak hrozí omezení reklam.
 - Fakta ověřit (data, oblečení) – komentáře opravují chyby a nedůvěra brzdí růst.
 - Každý díl vlastní scénář; nekopírovat cizí videa.
+
+## Díl 1 (PRVNÍ UPLOAD) – Titanic (3 × 8 s = 24 s)
+
+1. Soumrak, paluba: „Evening from the Titanic! Four days at sea… and they say this ship is unsinkable. Best trip of my life.“
+2. 23:45, led na palubě: „So… we just felt a little bump. And now there's ice all over the deck? Crew says it's nothing. Everyone's playing with it.“
+3. ~1:30, záchranné čluny: „They're putting the women and children in the boats first. And the band… is still playing.“
+
+**Titulek ve videu:** `POV: You're on the Titanic – April 14, 1912 🚢`
+
+**Název videa:** `POV: You're a passenger on the Titanic 🚢 #history #titanic #shorts`
+
+**Popis:**
+```
+April 14, 1912. 11:40 PM. Nobody on board knew what the next 2 hours would bring. 🚢🧊
+
+Real facts from that night:
+• After the collision, some passengers actually kicked chunks of ice around the deck like a football.
+• The ship's band kept playing as the lifeboats were lowered.
+• There were only 20 lifeboats – room for about half of the people on board.
+
+Follow for a new history POV every day. 📱🏛️
+
+AI-generated video inspired by real historical events.
+#history #titanic #pov #historyfacts #1912
+```
+
+**Připnutý komentář:** `Would you have stayed on deck or gone for the lifeboats? 👇`
+
+Nastavení: Not made for kids · Altered or synthetic content: **Yes** · Category: Education
